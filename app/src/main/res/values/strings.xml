@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HeadyDemo</string>
+    <string name="category_name">Category Name :</string>
+    <string name="product_name">Product Name :</string>
+    <string name="varients">Varients :</string>
+    <string name="tax">TAX :</string>
+    <string name="product_detail">Product Detail</string>
+    <string name="no_products_available">No Products Available</string>
+    <string name="color">Color :</string>
+    <string name="size" >Size :</string>
+    <string name="prize">Price :</string>
+</resources>
